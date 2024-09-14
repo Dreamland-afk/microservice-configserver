@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to DreamBank accounts related PROD APIs"
   contactDetails:
     name: "Swapnadeep Mondal - Production"
-    email: "swapnadeep@dreambank.com"
+    email: "{cipher}b05468b14f57c3b0e6f34d3668d56274b9f1740091d006c330882b7f4de0585791d7644a26b0b363ecef0a476d0d8e86"
   onCallSupport:
     - "(+91) 1111111111"
     - "(+91) 1111111111"
