@@ -1,3 +1,7 @@
+logging:
+  level:
+    com.dreamquest.account.service.feignclients: DEBUG
+
 feign:
   client:
     config:
