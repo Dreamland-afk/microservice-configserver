@@ -21,15 +21,11 @@ management:
       exposure:
         include: "*"
   endpoint:
-    shutdown:
+    gateway:
       enabled: true
   info:
     env:
       enabled: true
-
-endpoints:
-  shutdown:
-    enabled: true
     
 info:
   app:
