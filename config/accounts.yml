@@ -2,8 +2,7 @@ logging:
   level:
     com:
       dreamquest:
-        account:
-          service: DEBUG
+        account: DEBUG
 
 feign:
   client:
