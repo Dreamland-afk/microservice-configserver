@@ -1,4 +1,9 @@
-
+logging:
+  level:
+    com:
+      dreamquest:
+        cards: DEBUG
+          
 build:
   version: "1.0"
 
