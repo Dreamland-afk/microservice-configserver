@@ -4,13 +4,6 @@ logging:
       dreamquest:
         account: DEBUG
 
-feign:
-  client:
-    config:
-      default:
-        loggerLevel: FULL
-        connectTimeout: 500  # .5 seconds for connection timeout
-        readTimeout: 10000
 
 eureka:
   instance:
